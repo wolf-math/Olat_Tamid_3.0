@@ -2,14 +2,22 @@
 \ProvidesPackage{siddur}
   [2019/12/121 v0.01 LaTeX package for siddur]
 
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhf{}
-  \fancyhead[RE]{\footnotesize\thepage}
-  \fancyhead[LO]{\footnotesize\thepage}
-  \fancyhead[C]{\footnotesize\leftmark}
-  \fancypagestyle{plain}{%
-       \fancyhf{}%
-      \fancyhead[RE]{\footnotesize\thepage}
-      \fancyhead[LO]{\footnotesize\thepage}
+% RTL typing
+\RequirePackage{polyglossia}
+\setdefaultlanguage[numerals=Hebrew]{hebrew}
+\setotherlanguage{english}
+
+\setmainfont[
+	Path=fonts/, 
+	BoldItalicFont=ShlomoLightBold, 
+	BoldFont=ShlomoBold, 
+	ItalicFont=ShlomosemiStam
+	]{Shlomo}
+	\setsansfont{FreeSans}
+
+\RequirePackage{bidi}
+\makeatletter
+\makeatother
+
+
 
