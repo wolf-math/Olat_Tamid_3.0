@@ -17,7 +17,6 @@
 \RequirePackage{marginfix}
 \RequirePackage{xunicode} 				%UTF-8
 \RequirePackage{adforn}					%for vignettes on the chapters and sections, I'm getting rid of them in favor of a more modern look
-									%more information: http://mirrors.concertpass.com/tex-archive/fonts/adforn/doc/fonts/adforn/adforn.pdf
 \RequirePackage{tikz}
 \usetikzlibrary{decorations.text}
 \RequirePackage{ragged2e}				%text justification
@@ -36,13 +35,10 @@
   \fancyhead[RE]{\footnotesize\thepage}
   \fancyhead[LO]{\footnotesize\thepage}
   \fancyhead[C]{\footnotesize\leftmark}
-  \fancypagestyle{plain}{%
-       \fancyhf{}%
+  \fancypagestyle{plain}{
+       \fancyhf{}
       \fancyhead[RE]{\footnotesize\thepage}
-      \fancyhead[LO]{\footnotesize\thepage}
-      %\fancyhead[C]{\footnotesize\leftmark}
-      % \renewcommand{\headrulewidth}{0.4pt}% Line at the header 
-      
+      \fancyhead[LO]{\footnotesize\thepage}      
   }
 
 % Chapter TItles - Must be before bidi
@@ -66,7 +62,11 @@
 \makeatletter
 \makeatother
 
-% Center Chaper - Needs to be after bidi
+\makeatletter
+\@addtoreset{footnote}{chapter}
+\makeatother
+
+% Center Chaper - must be after bidi
 \makeatletter
 \def\@makechapterhead#1{%
   \vspace*{-30\p@}
@@ -92,3 +92,6 @@
 
 % Format for the chapter headings
 \titleformat{\chapter}[display]{\bfseries\Large\itshape}{ \thechapter}{0.5ex}{}[]
+
+% indentation
+\setlength\parindent{10pt}

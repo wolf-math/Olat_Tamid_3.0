@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1590324341 "/home/aaron/code/Olat_Tamid_3/olat_tamid.tex" "/home/aaron/code/Olat_Tamid_3/olat_tamid.pdf" "olat_tamid" 1590324341
+["pdflatex"] 1590330091 "/home/aaron/code/Olat_Tamid_3/olat_tamid.tex" "/home/aaron/code/Olat_Tamid_3/olat_tamid.pdf" "olat_tamid" 1590330091
   "/etc/texmf/web2c/texmf.cnf" 1586107376 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/aaron/code/Olat_Tamid_3/olat_tamid.aux" 1590324341 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/aaron/code/Olat_Tamid_3/olat_tamid.tex" 1590312713 321 3bd5a9b180a680252d046046bfc81cb5 ""
+  "/home/aaron/code/Olat_Tamid_3/olat_tamid.aux" 1590330091 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/aaron/code/Olat_Tamid_3/olat_tamid.tex" 1590330090 548 9f2610cd4c3809e9f4bc2fe687f171ff ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -148,8 +148,8 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1586107469 4129157 67bd5bb62c1e971e4a449f83d7742774 ""
-  "olat_tamid.tex" 1590312713 321 3bd5a9b180a680252d046046bfc81cb5 ""
-  "siddur.style.sty" 1590324339 2945 686c25bdb0925b67a0801dae644048c0 ""
+  "olat_tamid.tex" 1590330090 548 9f2610cd4c3809e9f4bc2fe687f171ff ""
+  "siddur.style.sty" 1590330034 2816 27a79a4806d6f8c809b1e7be1a16c40e ""
   (generated)
   "olat_tamid.log"
   "/home/aaron/code/Olat_Tamid_3/olat_tamid.log"
