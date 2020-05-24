@@ -2,7 +2,54 @@
 \ProvidesPackage{siddur}
   [2019/12/121 v0.01 LaTeX package for siddur]
 
-% RTL typing
+%Packages used throughout
+\RequirePackage{longtable}				%lets tables go over a page break
+\RequirePackage{paracol}					%parallel columns
+\RequirePackage{multirow}
+\RequirePackage{multicol}				%multicolumn
+\RequirePackage[table]{xcolor}			%colored tables
+\RequirePackage{pbox}					%paragraph box 
+\RequirePackage{wrapfig}					%wraps text around pbox
+\RequirePackage{array}					%for tables
+\RequirePackage{graphicx}				%for adding jpegs
+\RequirePackage{afterpage}				%for insterting blank pages
+\RequirePackage{morefloats}
+\RequirePackage{marginfix}
+\RequirePackage{xunicode} 				%UTF-8
+\RequirePackage{adforn}					%for vignettes on the chapters and sections, I'm getting rid of them in favor of a more modern look
+									%more information: http://mirrors.concertpass.com/tex-archive/fonts/adforn/doc/fonts/adforn/adforn.pdf
+\RequirePackage{tikz}
+\usetikzlibrary{decorations.text}
+\RequirePackage{ragged2e}				%text justification
+\RequirePackage{libertine}
+\RequirePackage{setspace}				%line spacing
+\RequirePackage{sectsty}
+\RequirePackage[bottom]{footmisc}		%keeps footnotes at the bottom of the page. Doesn't always work.
+\RequirePackage{scrextend}
+\RequirePackage[all]{nowidow}
+\allsectionsfont{\centering}
+
+  % Header - must be before bidi
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \fancyhead[RE]{\footnotesize\thepage}
+  \fancyhead[LO]{\footnotesize\thepage}
+  \fancyhead[C]{\footnotesize\leftmark}
+  \fancypagestyle{plain}{%
+       \fancyhf{}%
+      \fancyhead[RE]{\footnotesize\thepage}
+      \fancyhead[LO]{\footnotesize\thepage}
+      %\fancyhead[C]{\footnotesize\leftmark}
+      % \renewcommand{\headrulewidth}{0.4pt}% Line at the header 
+      
+  }
+
+% Chapter TItles - Must be before bidi
+\RequirePackage{titlesec}
+\titlespacing*{\section}{0pt}{-0.1em}{-0.1em}
+
+% Right to left typing
 \RequirePackage{polyglossia}
 \setdefaultlanguage[numerals=Hebrew]{hebrew}
 \setotherlanguage{english}
@@ -19,5 +66,29 @@
 \makeatletter
 \makeatother
 
+% Center Chaper - Needs to be after bidi
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{-30\p@}
+  {\parindent \z@ \raggedright \normalfont \centering
+    \ifnum \c@secnumdepth >\m@ne
+        \LARGE\bfseries \@chapapp\space \thechapter
+        \par\nobreak
+  %%%%  \vskip 20\p@
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries #1\par\nobreak
+  %%%%  \vskip 40\p@% %%% removed!
+  }}
+\def\@makeschapterhead#1{%
+  %%%%%\vspace*{50\p@}% %%% removed!
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries  #1\par\nobreak
+  %%%%%  \vskip 40\p@
+  }}
+\makeatother
 
-
+% Format for the chapter headings
+\titleformat{\chapter}[display]{\bfseries\Large\itshape}{ \thechapter}{0.5ex}{}[]
