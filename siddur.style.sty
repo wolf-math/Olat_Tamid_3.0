@@ -1,0 +1,15 @@
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{siddur}
+  [2019/12/121 v0.01 LaTeX package for siddur]
+
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \fancyhead[RE]{\footnotesize\thepage}
+  \fancyhead[LO]{\footnotesize\thepage}
+  \fancyhead[C]{\footnotesize\leftmark}
+  \fancypagestyle{plain}{%
+       \fancyhf{}%
+      \fancyhead[RE]{\footnotesize\thepage}
+      \fancyhead[LO]{\footnotesize\thepage}
+
