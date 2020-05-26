@@ -1,0 +1,511 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  26 MAY 2020 19:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**weekday_shacharit.tex
+(./weekday_shacharit.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./adonolam.tex
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 }
+      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   o
+l.12 }
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.12 }
+      
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+! You already have nine parameters.
+\reserved@a ... \def \expandafter a\reserved@b #10
+                                                  o{
+l.12 }
+      
+I'm going to ignore the # sign you just used.
+
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ן in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ם in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no שׁ in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no ך in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ט in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ֽ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ם in font nullfont!
+Missing character: There is no כּ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no צ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no שׂ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no פ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no צ in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no כּ in font nullfont!
+Missing character: There is no ֹ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no ז in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ֽ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ך in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no שׁ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no ק in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no ֽ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no כּ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no כ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no כּ in font nullfont!
+Missing character: There is no ֹ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no דּ in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ֹ in font nullfont!
+Missing character: There is no ך in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no פ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ן in font nullfont!
+Missing character: There is no שׁ in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no שׁ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no ֽ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no שׁ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no כ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ֹ in font nullfont!
+Missing character: There is no ז in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no מּ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no שׂ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ג in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no צ in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no צ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no סּ in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ס in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no כּ in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ס in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no ם in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֶ in font nullfont!
+Missing character: There is no ק in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no פ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ק in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no בּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ֵ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no שׁ in font nullfont!
+Missing character: There is no ַ in font nullfont!
+Missing character: There is no ן in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no ֽ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no ם in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no וּ in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no גּ in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no יּ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ֲ in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no וֹ in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ְ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ֹ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ִ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ָ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no : in font nullfont!
+))
+! Emergency stop.
+<*> weekday_shacharit.tex
+                         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493007
+ 116 string characters out of 6136720
+ 61822 words of memory out of 5000000
+ 4075 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 11i,0n,9p,109b,27s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

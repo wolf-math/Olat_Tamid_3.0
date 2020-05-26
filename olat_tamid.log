@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  26 MAY 2020 11:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  26 MAY 2020 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2009,28 +2009,28 @@ LaTeX Info: Redefining \rmfamily on input line 59.
 Requested font "[fonts/Shlomo]/OT:mapping=tex-text;" at 10.95pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans" at 10.95pt
- -> 
+ -> @k^^]7^^(U
 Requested font "FreeSans/OT" at 10.95pt
- -> ^^ ^^ì^^P^^#^^ÂU
+ -> 
 \g__fontspec_family_FreeSans_int=\count329
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^À^^å^^P^^#^^ÂU
+ -> ^^ e^^]7^^(U
 Requested font "FreeSans/B/OT" at 10.95pt
- -> `^^ë^^P^^#^^ÂU
+ -> ^^àk^^]7^^(U
 Requested font "FreeSans/I/OT" at 10.95pt
  -> 
 Requested font "FreeSans/B/OT" at 10.95pt
- -> 0^^ê^^P^^#^^ÂU
+ -> pj^^]7^^(U
 Requested font "FreeSans/B/OT" at 10.95pt
- -> 0^^ê^^P^^#^^ÂU
+ -> pj^^]7^^(U
 Requested font "FreeSans/I/OT" at 10.95pt
- -> 0^^ê^^P^^#^^ÂU
+ -> pj^^]7^^(U
 Requested font "FreeSans/I/OT" at 10.95pt
- -> 0^^ê^^P^^#^^ÂU
+ -> pj^^]7^^(U
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^ ^^^^^\^^#^^ÂU
+ ->  ^^(7^^(U
 Requested font "FreeSans/BI/OT" at 10.95pt
- ->  ,^^\^^#^^ÂU
+ -> `^^,(7^^(U
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2060,33 +2060,7 @@ LaTeX Info: Redefining \sffamily on input line 60.
 LaTeX Warning: Unused global option(s):
     [parskip=half].
 
-(./olat_tamid.aux
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Shlomo(1)' created for font 'Shlomo' with options
-. [Ligatures=TeX,Path=fonts/,BoldItalicFont=ShlomoLightBold,BoldFont=ShlomoBold
-,ItalicFont=ShlomosemiStam,Script=Hebrew].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"[fonts/Shlomo]/OT:script=hebr;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->"[fonts/ShlomoBold]/OT:script=hebr;language=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.:
-. <->"[fonts/ShlomosemiStam]/OT:script=hebr;language=DFLT;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: 
-. - 'bold italic' (bx/it) with NFSS spec.:
-. <->"[fonts/ShlomoLightBold]/OT:script=hebr;language=DFLT;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-Requested font "[fonts/Shlomo]/OT:script=hebr;language=DFLT;mapping=tex-text;" 
-at 10.95pt
- -> ./fonts/Shlomo.ttf
- (./services/weekday_shacharit.aux))
+(./olat_tamid.aux)
 \openout1 = `olat_tamid.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -2105,8 +2079,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 8.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 8.
-
-(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 8.
@@ -2216,53 +2189,45 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/bx/n on input line 
 8.
 \AtBeginShipoutBox=\box96
-
-×¤×¨×§ 1.
-Requested font "[fonts/ShlomoBold]/OT:script=hebr;language=DFLT;mapping=tex-tex
-t;" at 10.95pt
- -> ./fonts/ShlomoBold.ttf
-Requested font "[fonts/ShlomoBold]/OT:script=hebr;language=DFLT;mapping=tex-tex
-t;" at 14.4pt
- -> ./fonts/ShlomoBold.ttf
-Requested font "[fonts/ShlomoLightBold]/OT:script=hebr;language=DFLT;mapping=te
-x-text;" at 14.4pt
- -> ./fonts/ShlomoLightBold.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Shlomo(1)' created for font 'Shlomo' with options
+. [Ligatures=TeX,Path=fonts/,BoldItalicFont=ShlomoLightBold,BoldFont=ShlomoBold
+,ItalicFont=ShlomosemiStam,Script=Hebrew].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[fonts/Shlomo]/OT:script=hebr;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[fonts/ShlomoBold]/OT:script=hebr;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[fonts/ShlomosemiStam]/OT:script=hebr;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[fonts/ShlomoLightBold]/OT:script=hebr;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
 Requested font "[fonts/Shlomo]/OT:script=hebr;language=DFLT;mapping=tex-text;" 
-at 9.0pt
+at 10.95pt
  -> ./fonts/Shlomo.ttf
-[1
 
+(./services/weekday_shacharit.tex (./components/kaddish.tex)) (./olat_tamid.aux
+)
 
-]
-\openout2 = `./services/weekday_shacharit.aux'.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- (./services/weekday_shacharit.tex
-
-! LaTeX Error: \include cannot be nested.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \include{../components/adon_olam.tex}
-                                         
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.1 \include{../components/adon_olam.tex}
-                                         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 40950 strings out of 493007
- 853774 string characters out of 6136720
- 844254 words of memory out of 5000000
- 44327 multiletter control sequences out of 15000+600000
- 531564 words of font info for 63 fonts, out of 8000000 for 9000
+ 40947 strings out of 493007
+ 853424 string characters out of 6136720
+ 843254 words of memory out of 5000000
+ 44326 multiletter control sequences out of 15000+600000
+ 531532 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 64i,11n,88p,10442b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on olat_tamid.pdf (1 page).
+ 64i,1n,88p,10442b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
