@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  26 MAY 2020 19:55
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  26 MAY 2020 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1970,14 +1970,9 @@ Package polyglossia Info: Default language is hebrew.
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
 File: gloss-english.ldf polyglossia: module for english
 )
-Requested font "[fonts/Shlomo]/OT" at 10.95pt
- -> ./fonts/Shlomo.ttf
-.................................................
-. fontspec info: "no-scripts"
-. 
-. Font "Shlomo" does not contain any OpenType `Script' information.
-.................................................
-\g__fontspec_family_Shlomo_int=\count328
+Requested font "[fonts/OpenSansHebrew-Regular]/OT" at 10.95pt
+ -> ./fonts/OpenSansHebrew-Regular.ttf
+\g__fontspec_family_OpenSansHebrew-Regular_int=\count328
 Requested font "[fonts/ShlomoBold]/OT" at 10.95pt
  -> ./fonts/ShlomoBold.ttf
 Requested font "[fonts/ShlomosemiStam]/OT" at 10.95pt
@@ -1987,50 +1982,54 @@ Requested font "[fonts/ShlomoLightBold]/OT" at 10.95pt
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Shlomo(0)' created for font 'Shlomo' with options
+. Font family 'OpenSansHebrew-Regular(0)' created for font
+. 'OpenSansHebrew-Regular' with options
 . [Ligatures=TeX,Path=fonts/,BoldItalicFont=ShlomoLightBold,BoldFont=ShlomoBold
 ,ItalicFont=ShlomosemiStam].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"[fonts/Shlomo]/OT:mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[fonts/OpenSansHebrew-Regular]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"[fonts/ShlomoBold]/OT:mapping=tex-text;"
+. <->"[fonts/ShlomoBold]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
-. <->"[fonts/ShlomosemiStam]/OT:mapping=tex-text;"
+. <->"[fonts/ShlomosemiStam]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"[fonts/ShlomoLightBold]/OT:mapping=tex-text;"
+. <->"[fonts/ShlomoLightBold]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 59.
-Requested font "[fonts/Shlomo]/OT:mapping=tex-text;" at 10.95pt
- -> ./fonts/Shlomo.ttf
+Requested font "[fonts/OpenSansHebrew-Regular]/OT:script=latn;language=DFLT;map
+ping=tex-text;" at 10.95pt
+ -> ./fonts/OpenSansHebrew-Regular.ttf
 Requested font "FreeSans" at 10.95pt
- -> @k^^]7^^(U
+ -> ^^Ð^^Â^^+dU
 Requested font "FreeSans/OT" at 10.95pt
- -> 
+ -> 0^^D^^+dU
 \g__fontspec_family_FreeSans_int=\count329
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^ e^^]7^^(U
+ -> 
 Requested font "FreeSans/B/OT" at 10.95pt
- -> ^^àk^^]7^^(U
+ -> ^^P^^%^^+dU
 Requested font "FreeSans/I/OT" at 10.95pt
  -> 
 Requested font "FreeSans/B/OT" at 10.95pt
- -> pj^^]7^^(U
+ -> ^^0^^8^^+dU
 Requested font "FreeSans/B/OT" at 10.95pt
- -> pj^^]7^^(U
+ -> ^^0^^8^^+dU
 Requested font "FreeSans/I/OT" at 10.95pt
- -> pj^^]7^^(U
+ -> ^^0^^8^^+dU
 Requested font "FreeSans/I/OT" at 10.95pt
- -> pj^^]7^^(U
+ -> ^^0^^8^^+dU
 Requested font "FreeSans/BI/OT" at 10.95pt
- ->  ^^(7^^(U
+ -> @w^^+dU
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> `^^,(7^^(U
+ -> ^^À^^Ä^^+dU
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2162,27 +2161,33 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 8.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 8.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Shlomo(0)/m/n on input line 8.
+(Font)                  OT1/cmr/m/n --> TU/OpenSansHebrew-Regular(0)/m/n on inp
+ut line 8.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 8.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Shlomo(0)/m/n on input line 8.
+(Font)                  OT1/cmr/bx/n --> TU/OpenSansHebrew-Regular(0)/m/n on in
+put line 8.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Shlomo(0)/m/n --> TU/Shlomo(0)/m/n on input line 8.
+(Font)                  TU/OpenSansHebrew-Regular(0)/m/n --> TU/OpenSansHebrew-
+Regular(0)/m/n on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Shlomo(0)/m/it on input line 8.
+(Font)                  OT1/cmr/m/it --> TU/OpenSansHebrew-Regular(0)/m/it on i
+nput line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Shlomo(0)/bx/n on input line 8.
+(Font)                  OT1/cmr/bx/n --> TU/OpenSansHebrew-Regular(0)/bx/n on i
+nput line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/FreeSans(0)/m/n on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/m/n on input line 8
 .
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Shlomo(0)/m/n --> TU/Shlomo(0)/bx/n on input line 8.
-
+(Font)                  TU/OpenSansHebrew-Regular(0)/m/n --> TU/OpenSansHebrew-
+Regular(0)/bx/n on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Shlomo(0)/bx/it on input line 8.
+(Font)                  OT1/cmr/bx/it --> TU/OpenSansHebrew-Regular(0)/bx/it on
+ input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/FreeSans(0)/bx/n on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -2192,14 +2197,16 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Shlomo(1)' created for font 'Shlomo' with options
+. Font family 'OpenSansHebrew-Regular(1)' created for font
+. 'OpenSansHebrew-Regular' with options
 . [Ligatures=TeX,Path=fonts/,BoldItalicFont=ShlomoLightBold,BoldFont=ShlomoBold
 ,ItalicFont=ShlomosemiStam,Script=Hebrew].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"[fonts/Shlomo]/OT:script=hebr;language=DFLT;mapping=tex-text;"
+. <->"[fonts/OpenSansHebrew-Regular]/OT:script=hebr;language=DFLT;mapping=tex-t
+ext;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"[fonts/ShlomoBold]/OT:script=hebr;language=DFLT;mapping=tex-text;"
@@ -2211,9 +2218,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 . <->"[fonts/ShlomoLightBold]/OT:script=hebr;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-Requested font "[fonts/Shlomo]/OT:script=hebr;language=DFLT;mapping=tex-text;" 
-at 10.95pt
- -> ./fonts/Shlomo.ttf
+Requested font "[fonts/OpenSansHebrew-Regular]/OT:script=hebr;language=DFLT;map
+ping=tex-text;" at 10.95pt
+ -> ./fonts/OpenSansHebrew-Regular.ttf
 
 (./services/weekday_shacharit.tex (./components/kaddish.tex)) (./olat_tamid.aux
 )
@@ -2222,10 +2229,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40947 strings out of 493007
- 853424 string characters out of 6136720
+ 40948 strings out of 493007
+ 854098 string characters out of 6136720
  843254 words of memory out of 5000000
- 44326 multiletter control sequences out of 15000+600000
+ 44327 multiletter control sequences out of 15000+600000
  531532 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  64i,1n,88p,10442b,287s stack positions out of 5000i,500n,10000p,200000b,80000s

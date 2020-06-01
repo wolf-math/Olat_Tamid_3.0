@@ -56,10 +56,10 @@
 	BoldItalicFont=ShlomoLightBold, 
 	BoldFont=ShlomoBold, 
 	ItalicFont=ShlomosemiStam
-	]{Shlomo}
+	]{OpenSansHebrew-Regular}
 	\setsansfont{FreeSans}
 
-  % bidirectional typing
+% bidirectional typing
 \RequirePackage{bidi}
 \makeatletter
 \makeatother
@@ -76,19 +76,15 @@
     \ifnum \c@secnumdepth >\m@ne
         \LARGE\bfseries \@chapapp\space \thechapter
         \par\nobreak
-  %%%%  \vskip 20\p@
     \fi
     \interlinepenalty\@M
-    \LARGE \bfseries #1\par\nobreak
-  %%%%  \vskip 40\p@% %%% removed!
+    \LARGE \bfseries #1\par\nobrea
   }}
-\def\@makeschapterhead#1{%
-  %%%%%\vspace*{50\p@}% %%% removed!
+\def\@makeschapterhead#1{
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
     \LARGE \bfseries  #1\par\nobreak
-  %%%%%  \vskip 40\p@
   }}
 \makeatother
 
@@ -96,4 +92,4 @@
 \titleformat{\chapter}[display]{\bfseries\Large\itshape}{ \thechapter}{0.5ex}{}[]
 
 % indentation
-\setlength\parindent{10pt}
+\setlength\parindent{30pt}
