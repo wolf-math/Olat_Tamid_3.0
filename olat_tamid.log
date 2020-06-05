@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  1 JUN 2020 16:21
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  5 JUN 2020 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -59,7 +59,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 LaTeX Warning: You have requested package `siddur.style',
                but the package provides `siddur'.
 
-Package: siddur 2019/12/121 v0.01 LaTeX package for siddur
+Package: siddur 2020/06/19 v0.01 LaTeX package for siddur
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip43
@@ -2013,28 +2013,28 @@ Requested font "[fonts/OpenSansHebrew-Regular]/OT:script=latn;language=DFLT;map
 ping=tex-text;" at 10.95pt
  -> ./fonts/OpenSansHebrew-Regular.ttf
 Requested font "FreeSans" at 10.95pt
- ->  '^^^^�%V
+ -> ^^0^^%^^*^^P^^�U
 Requested font "FreeSans/OT" at 10.95pt
- -> ^^ ^^�^^^^�%V
+ -> ^^�g^^*^^P^^�U
 \g__fontspec_family_FreeSans_int=\count329
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^�^^�^^^^�%V
+ -> `_^^*^^P^^�U
 Requested font "FreeSans/B/OT" at 10.95pt
- -> ^^�^^�^^^^�%V
+ -> pH^^*^^P^^�U
 Requested font "FreeSans/I/OT" at 10.95pt
  -> 
 Requested font "FreeSans/B/OT" at 10.95pt
- -> ^^�^^�^^^^�%V
+ -> P\^^*^^P^^�U
 Requested font "FreeSans/B/OT" at 10.95pt
- -> ^^�^^�^^^^�%V
+ -> P\^^*^^P^^�U
 Requested font "FreeSans/I/OT" at 10.95pt
- -> ^^�^^�^^^^�%V
+ -> P\^^*^^P^^�U
 Requested font "FreeSans/I/OT" at 10.95pt
- -> ^^�^^�^^^^�%V
+ -> P\^^*^^P^^�U
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^^^[^^^^�%V
+ -> ^^�^^^^5^^P^^�U
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^P)^^^^�%V
+ -> ^^ ^^'^^5^^P^^�U
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2229,21 +2229,52 @@ Requested font "[fonts/OpenSansHebrew-Regular]/OT:script=hebr;language=DFLT;map
 ping=tex-text;" at 10.95pt
  -> ./fonts/OpenSansHebrew-Regular.ttf
 
-(./services/weekday_shacharit.tex (./components/kaddish.tex))
-Runaway argument?
-! File ended while scanning use of \source.
-<inserted text> 
-                \par 
-l.16      \input{./services/weekday_shacharit}
-                                              
-? x
- 
+(./services/weekday_shacharit.tex (./components/test.tex)
+(./components/kaddish.tex) (./components/adonolam.tex)
+Missing character: There is no ֿ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+Missing character: There is no ֿ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+Missing character: There is no ֿ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+Missing character: There is no ׃ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+Missing character: There is no ֿ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+Missing character: There is no ֿ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+Missing character: There is no ׃ in font [fonts/OpenSansHebrew-Regular]/OT:scri
+pt=hebr;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (2.12245pt too wide) in paragraph at lines 9--10
+[][]\TU/OpenSansHebrew-Regular(1)/m/n/10.95 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא 
+בְּעָלְֿמָא דִּבְרָא כִרְעוּתֵהּ וְיַמְלִיךְ מַלְכוּתֵהּ בְּחַיֵּיכוֹן[]
+ []
+
+
+Overfull \hbox (1.70921pt too wide) in paragraph at lines 9--10
+[]\TU/OpenSansHebrew-Regular(1)/m/n/10.95 וְיִתְעַלֶּה וְיִתְהַלַּל שְׁמֵיהּ דְּקֻדְ
+שָׁא בְּרִיךְ הוּא ׃ לְעֵֽלָּא מִכָּל־בִּרְכָתָא וְשִׁירָתָא תֻּשְׁבְּֿחָתָא[]
+ []
+
+)
+Requested font "[fonts/OpenSansHebrew-Regular]/OT:script=hebr;language=DFLT;map
+ping=tex-text;" at 9.0pt
+ -> ./fonts/OpenSansHebrew-Regular.ttf
+ [1
+
+] (./olat_tamid.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 40979 strings out of 493007
- 854693 string characters out of 6136720
- 843484 words of memory out of 5000000
- 44353 multiletter control sequences out of 15000+600000
- 531532 words of font info for 59 fonts, out of 8000000 for 9000
+ 41003 strings out of 493007
+ 855212 string characters out of 6136720
+ 844483 words of memory out of 5000000
+ 44367 multiletter control sequences out of 15000+600000
+ 531540 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 64i,0n,88p,10467b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+ 64i,11n,88p,10467b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on olat_tamid.pdf (1 page).
