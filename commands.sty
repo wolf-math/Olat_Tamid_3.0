@@ -1,0 +1,39 @@
+\newcommand{\instruction}[1]{\begin{center}\begin{scriptsize} \textsf{#1} \end{scriptsize}\end{center}}
+
+\newcommand{\inlineinstruction}[1]{\begin{scriptsize} \textsf{#1} \end{scriptsize}}
+
+\newcommand{\source}[1]{%
+    \Ifthispageodd{%
+        \marginpar{\raggedleft\tiny \textsf{#1}}}{%
+        \marginpar{\raggedright\tiny \textsf{#1}}}%
+}
+
+\newcommand{\firstword}[1]{\begin{large}\textbf{#1}\end{large}}
+
+\newenvironment{sometimes}[1]
+    {\vspace{-.5\baselineskip}\rule[-0.5ex]{3in}{1pt}\\ \begin{small}}
+    {\end{small}\rule[3ex]{3in}{1pt}
+    \vspace{-.75\baselineskip}
+}
+
+\newcommand{\sepline}{\vspace{-.5\baselineskip}\rule[.7ex]{1.3in}{1pt}\vspace{-.5\baselineskip}}
+
+
+% \newcommand{\source}[3]{
+% \begin{python}
+
+% import json
+
+% file_path = f"./sources/tanakh/\py{#1}/teamim.json"
+% with open(file_path) as json_file:
+%     data = json.load(json_file)
+%     if \py{#3} == 0:
+%         print(data["text"][\py{#2}-1])
+%     else:
+%         print(data["text"][\py{#2}-1][\py{3}-1])
+
+        
+% print(f"{#1} is the book, {#2} is the chapter, and {#3} is the verse")
+
+% \end{python}
+% }
