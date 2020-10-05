@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.9.22)  4 OCT 2020 17:53
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.9.22)  5 OCT 2020 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1916,27 +1916,27 @@ ex-text;"
 Requested font "[./fonts/Shlomo]/OT:language=dflt;mapping=tex-text;" at 10.95pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans" at 10.94997pt
- -> ^^�^^Z^^^^N^^ U
+ ->  3^^�^^YaU
 Requested font "FreeSans/OT" at 10.95003pt
- ->  ^^�^^^^N^^ U
+ -> ^^ ^^�^^�^^YaU
 Requested font "FreeSans/OT:script=latn;language=dflt;" at 10.95001pt
- ->  ^^�^^^^N^^ U
+ -> ^^ ^^�^^�^^YaU
 Requested font "FreeSans/BI/OT:script=latn;language=dflt;" at 10.95001pt
  -> 
 Requested font "FreeSans/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^�^^�^^^^N^^ U
+ -> @^^�^^�^^YaU
 Requested font "FreeSans/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> p^^�^^^^N^^ U
+ -> ^^P^^�^^�^^YaU
 Requested font "FreeSans/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^P+^^^^N^^ U
+ -> 0@^^�^^YaU
 Requested font "FreeSans/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^�^^�^^^^N^^ U
+ -> P^^�^^�^^YaU
 Requested font "FreeSans/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ ^^6^^1^^N^^ U
+ -> `^^O^^^^YaU
 Requested font "FreeSans/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ ^^6^^1^^N^^ U
+ -> `^^O^^^^YaU
 Requested font "FreeSans/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> @8^^4^^N^^ U
+ -> ^^ P^^^^YaU
 Requested font "FreeSans/BI/OT:script=latn;language=dflt;" at 10.95003pt
  -> 
 Requested font "FreeSans/BI/OT:script=latn;language=dflt;" at 10.95003pt
@@ -2148,30 +2148,19 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 5.
 \AtBeginShipoutBox=\box124
 
-(./components/brachot_hashachar.tex
-Overfull \hbox (2.17047pt too wide) in paragraph at lines 6--6
-[][]\TU/Shlomo(1)/m/n/10.95 אֱלֹהַי נְשָׁמָה שֶׁנָּתַֽתָּ בִּי טְהוֹרָה (הִיא)׃ אַתָּה
- בְרָאתָהּ אַתָּה יְצַרְתָּהּ[]
- []
-
-
-Overfull \hbox (14.44485pt too wide) in paragraph at lines 6--6
-[]\TU/Shlomo(1)/m/n/10.95 אַתָּה נְפַחְתָּהּ בִּי וְאַתָּה מְשַׁמְּֿרָהּ בְּקִרְבִּי וְאַ
-תָּה עָתִיד לִטְּֿלָהּ מִמֶּֽנִּי וּלְהַחֲזִירָהּ[]
- []
-
+(./components/kaddish.tex) (./components/brachot_hashachar.tex
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 8.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans/OT:script=latn;language=dflt;mapping=tex-text;" at 8.0
 pt
- -> 
+ -> @^^^^^^YaU
 Requested font "FreeSans/OT" at 7.99997pt
- -> @^^�^^>^^N^^ U
+ -> ^^�^^^^^^YaU
 Requested font "FreeSans/OT:script=hebr;" at 8.00003pt
- -> ^^�^^�^^>^^N^^ U
+ -> ^^0^^^^^^YaU
 Requested font "FreeSans/OT:script=hebr;language=dflt;" at 8.00002pt
- -> 0^^�^^>^^N^^ U
+ -> p^^�^^^^YaU
 Requested font "FreeSans/BI/OT:script=hebr;language=dflt;" at 8.00002pt
  -> 
 Requested font "FreeSans/B/OT:script=hebr;language=dflt;" at 8.00002pt
@@ -2186,11 +2175,11 @@ Requested font "FreeSans/OT:script=latn;language=dflt;mapping=tex-text;" at 10.
 Requested font "FreeSans/B/OT:script=hebr;language=dflt;" at 8.00003pt
  -> 
 Requested font "FreeSans/B/OT:script=hebr;language=dflt;" at 8.00003pt
- -> ^^P^^# ^^O^^ U
+ -> p^^:^^>^^YaU
 Requested font "FreeSans/I/OT:script=hebr;language=dflt;" at 8.00003pt
- -> ^^P^^# ^^O^^ U
+ -> p^^:^^>^^YaU
 Requested font "FreeSans/I/OT:script=hebr;language=dflt;" at 8.00003pt
- -> ^^�^^$^^O^^ U
+ -> ^^0^^.^^B^^ZaU
 Requested font "FreeSans/BI/OT:script=hebr;language=dflt;" at 8.00003pt
  -> 
 Requested font "FreeSans/BI/OT:script=hebr;language=dflt;" at 8.00003pt
@@ -2238,11 +2227,11 @@ Requested font "FreeSans/OT:script=hebr;language=dflt;mapping=tex-text;" at 10.
 Requested font "FreeSans/B/OT:script=hebr;language=IWR;" at 8.00003pt
  -> 
 Requested font "FreeSans/B/OT:script=hebr;language=IWR;" at 8.00003pt
- -> `^^>^^O^^ U
+ -> p^^+^^\^^ZaU
 Requested font "FreeSans/I/OT:script=hebr;language=IWR;" at 8.00003pt
- -> `^^>^^O^^ U
+ -> p^^+^^\^^ZaU
 Requested font "FreeSans/I/OT:script=hebr;language=IWR;" at 8.00003pt
- -> @^^B^^O^^ U
+ -> P^^  ^^ZaU
 Requested font "FreeSans/BI/OT:script=hebr;language=IWR;" at 8.00003pt
  -> 
 Requested font "FreeSans/BI/OT:script=hebr;language=IWR;" at 8.00003pt
@@ -2275,12 +2264,6 @@ text;"
 Requested font "FreeSans/OT:script=hebr;language=IWR;mapping=tex-text;" at 8.0p
 t
  -> 
-
-Overfull \hbox (4.28062pt too wide) in paragraph at lines 9--10
-[][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם אֲשֶׁר 
-נָתַן לַשֶּֽׂכְוִי בִינָה לְהַבְחִין[]
- []
-
 Requested font "[./fonts/Shlomo]/OT:language=dflt;mapping=tex-text;" at 8.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "[./fonts/Shlomo]/OT:language=dflt;mapping=tex-text;" at 6.0pt
@@ -2310,7 +2293,7 @@ Requested font "cmr8" at 8.0pt
 Requested font "cmr6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 
-Overfull \hbox (41.75002pt too wide) in paragraph at lines 11--25
+Overfull \hbox (11.75002pt too wide) in paragraph at lines 11--25
 [][][] []
  []
 
@@ -2319,30 +2302,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--41
 [][]
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Requested font "[./fonts/Shlomo]/OT:script=hebr;" at 10.95003pt
  -> ./fonts/Shlomo.ttf
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 9.0pt
  -> ./fonts/Shlomo.ttf
-[1
+ [1
 
 ]
+Underfull \hbox (badness 1014) in paragraph at lines 42--44
+[]\TU/Shlomo(1)/m/n/10.95 מֵעַפְעַפָּי׃ וִיהִי רָצוֹן מִלְּֿפָנֶֽיךָ יְיָ אֱלֹהַי 
+וֵאלֹהֵי אֲבוֹתַי שֶׁתַּרְגִּילֵֽנִי[]
+ []
+
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 6.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans/OT:script=latn;language=dflt;mapping=tex-text;" at 6.0
 pt
- -> pxM^^O^^ U
+ -> ^^�^^�+^^ZaU
 Requested font "FreeSans/OT" at 5.99997pt
- -> pxM^^O^^ U
+ -> ^^�^^�+^^ZaU
 Requested font "FreeSans/OT:script=hebr;" at 6.00003pt
- -> 0^^9L^^O^^ U
+ -> P^^E+^^ZaU
 Requested font "FreeSans/OT:script=hebr;language=dflt;mapping=tex-text;" at 6.0
 pt
- -> ^^�wM^^O^^ U
+ -> 
 Requested font "FreeSans/OT:script=hebr;language=IWR;mapping=tex-text;" at 6.0p
 t
- -> ^^�^^0L^^O^^ U
+ -> 
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 12.0pt
  -> ./fonts/Shlomo.ttf
@@ -2350,17 +2341,15 @@ Requested font "[./fonts/ShlomoBold]/OT:script=hebr;language=dflt;mapping=tex-t
 ext;" at 12.0pt
  -> ./fonts/ShlomoBold.ttf
 
-Overfull \hbox (4.2541pt too wide) in paragraph at lines 45--50
-[]\TU/Shlomo(1)/m/n/10.95 מַה־יְּשׁוּעָתֵֽנוּ מַה־כֹּחֵֽנוּ מַה־גְּבוּרָתֵֽנוּ: מַה־נֹּאמ
-ַר לְפָנֶֽיךָ יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי[]
- []
-
-
-Overfull \hbox (0.54707pt too wide) in paragraph at lines 45--50
+Underfull \hbox (badness 1259) in paragraph at lines 45--50
 []\TU/Shlomo(1)/m/n/10.95 בְּכוֹרֶֽךָ שֶׁמֵּאַהֲבָתְֿךָ שֶׁאָהַֽבְתָּ אֹתוֹ וּמִשִּׂמְחָת
-ְֿךָ שֶׁשָּׂמַֽחְתָּ בּוֹ קָרָֽאתָ אֶת־שְׁמוֹ[]
+ְֿךָ שֶׁשָּׂמַֽחְתָּ בּוֹ קָרָֽאתָ[]
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 14.4pt
  -> ./fonts/Shlomo.ttf
@@ -2371,32 +2360,29 @@ Requested font "[./fonts/ShlomoBold]/OT:script=hebr;language=dflt;mapping=tex-t
 ext;" at 10.95pt
  -> ./fonts/ShlomoBold.ttf
 
-Overfull \hbox (13.83891pt too wide) in paragraph at lines 64--66
+Underfull \hbox (badness 1831) in paragraph at lines 64--66
 []\TU/Shlomo(1)/m/n/10.95 הָאֱלֹהִים֙ לְבַדְּךָ֔ לְכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶץ אַ
-תָּ֣ה עָשִׂ֔יתָ אֶת־הַשָּׁמַ֖יִם וְאֶת־הָאָֽרֶץ׃[]
+תָּ֣ה עָשִׂ֔יתָ אֶת־הַשָּׁמַ֖יִם[]
  []
 
 
-Overfull \hbox (17.9202pt too wide) in paragraph at lines 64--66
-[][]\TU/Shlomo(1)/m/n/10.95 אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ֔ם׃ וּמִי בְּכָל־מַע
-ֲשֵׂה יָדֶֽיךָ בָּעֶלְיוֹנִים אוֹ בַתַּחְתּוֹנִים[]
+Underfull \hbox (badness 2393) in paragraph at lines 64--66
+[]\TU/Shlomo(1)/m/n/10.95 וְאֶת־הָאָֽרֶץ׃ []אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ֔ם
+׃ וּמִי בְּכָל־מַעֲשֵׂה יָדֶֽיךָ[]
  []
 
-[2]
 Requested font "OrnementsADF" at 14.4pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 
-Overfull \hbox (0.86786pt too wide) in paragraph at lines 71--73
-[]\TU/Shlomo(1)/m/n/10.95 בְּדִבְרֵי תוֹרָה: וְהַעֲרֶב־נָא יְיָ אֱלֹהֵֽינוּ אֶת־דִּ
-בְרֵי תוֹרָתְֿךָ בְּפִֽינוּ וּבְפִיפִיּוֹת[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [3]
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 10.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans/B/OT:script=hebr;language=IWR;mapping=tex-text;" at 8.
 0pt
- -> 
+ -> p^^I^^ZaU
 Requested font "[./fonts/Shlomo]/OT:language=dflt;mapping=tex-text;" at 10.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "[./fonts/Shlomo]/OT" at 9.99997pt
@@ -2404,58 +2390,15 @@ Requested font "[./fonts/Shlomo]/OT" at 9.99997pt
 Requested font "[./fonts/Shlomo]/OT:script=hebr;" at 10.00003pt
  -> ./fonts/Shlomo.ttf
 
-Overfull \hbox (3.89232pt too wide) in paragraph at lines 94--103
-[]\TU/Shlomo(1)/m/n/10.95 אֶת־קׇרְבָּנִ֨י לַחְמִ֜י לְאִשַּׁ֗י רֵ֚יחַ נִֽיחֹחִ֔י
- תִּשְׁמְר֕וּ לְהַקְרִ֥יב לִ֖י בְּמוֹעֲדֽוֹ׃ וְאָמַרְתָּ֣[]
+Underfull \hbox (badness 1286) in paragraph at lines 94--103
+[][]\TU/Shlomo(1)/b/n/12 וַיְדַבֵּ֥ר יְיָ֖[] \TU/Shlomo(1)/m/n/10.95 אֶל־מֹשֶׁ֥
+ה לֵּאמֹֽר׃ צַ֚ו אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם[]
  []
 
-[3]
-Overfull \hbox (1.00511pt too wide) in paragraph at lines 108--111
-[]\TU/Shlomo(1)/m/n/10.95 מִנְחָ֛ה בְּלוּלָ֥ה בַשֶּׁ֖מֶן וְנִסְכּֽוֹ׃ עֹלַ֥ת שַ
-ׁבַּ֖ת בְּשַׁבַּתּ֑וֹ עַל־עֹלַ֥ת הַתָּמִ֖יד וְנִסְכָּֽהּ׃ []
- []
-
-
-Overfull \hbox (2.9121pt too wide) in paragraph at lines 114--120
-[]\TU/Shlomo(1)/m/n/10.95 בַשֶּׁ֔מֶן לַפָּ֖ר הָאֶחָ֑ד וּשְׁנֵ֣י עֶשְׂרֹנִ֗ים סֹ
-֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן לָאַ֖יִל הָֽאֶחָֽד׃[]
- []
-
-[4]
-Overfull \hbox (4.56223pt too wide) in paragraph at lines 136--137
-[][]\TU/Shlomo(1)/m/n/10.95 (ו) הַתּוֹדָה וְאֵיל נָזִיר קָדָשִׁים קַלִּים: שְׁחִיטָת
-ָן בְּכָל־מָקוֹם בָּעֲזָרָה[]
- []
-
-
-Overfull \hbox (12.1761pt too wide) in paragraph at lines 138--139
-[]\TU/Shlomo(1)/m/n/10.95 טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְנֶאֱכָלִין בְּכָל
-־הָעִיר לְכָל־אָדָם בְּכָל־מַאֲכָל[]
- []
-
-
-Overfull \hbox (4.76183pt too wide) in paragraph at lines 140--141
-[][]\TU/Shlomo(1)/m/n/10.95 (ח) הַבְּֿכוֹר וְהַמַּעֲשֵׂר וְהַפֶּֽסַח קָדָשִׁים קַלִּים
-: שְׁחִיטָתָן בְּכָל־מָקוֹם[]
- []
-
-
-Overfull \hbox (3.73013pt too wide) in paragraph at lines 140--141
-[]\TU/Shlomo(1)/m/n/10.95 בָּעֲזָרָה וְדָמָן טָעוּן מַתָּנָה אֶחָת וּבִלְבָד שֶׁיִּתֵּ
-ן כְּנֶֽגֶד הַיְסוֹד שִׁנָּה בַאֲכִילָתָן:[]
- []
-
-
-Overfull \hbox (26.89195pt too wide) in paragraph at lines 140--141
-[]\TU/Shlomo(1)/m/n/10.95 הַבְּֿכוֹר נֶאֱכָל לַכֹּהֲנִים וְהַמַּעֲשֵׂר לְכָל־אָדָם: 
-וְנֶּאֱכָלִין בְּכָל־הָעִיר בְּכָל־מַאֲכָל[]
- []
-
-
+[4] [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
-[6])
+ [6])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2506,16 +2449,15 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [7
 
-] (./olat_tamid.aux) ) 
+[7] (./olat_tamid.aux) ) 
 Here is how much of TeX's memory you used:
- 34554 strings out of 479819
- 734641 string characters out of 5895846
- 962582 words of memory out of 5000000
- 51015 multiletter control sequences out of 15000+600000
+ 34560 strings out of 479819
+ 734771 string characters out of 5895846
+ 960582 words of memory out of 5000000
+ 51018 multiletter control sequences out of 15000+600000
  537187 words of font info for 140 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 70i,13n,116p,2635b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,13n,116p,2635b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on olat_tamid.pdf (7 pages).
