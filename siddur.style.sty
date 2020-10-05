@@ -42,9 +42,8 @@
       \fancyhead[LO]{\footnotesize\thepage}      
   }
 
-% Chapter TItles - Must be before bidi
+% chapter and section titles - MUST be before bidi
 \RequirePackage{titlesec}
-\titlespacing*{\section}{0pt}{-0.1em}{-0.1em}
 
 % Right to left typing
 \RequirePackage{polyglossia}
@@ -69,25 +68,8 @@
 \@addtoreset{footnote}{chapter}
 \makeatother
 
-% Center Chaper - must be after bidi
-\makeatletter
-\def\@makechapterhead#1{%
-  \vspace*{-30\p@}
-  {\parindent \z@ \raggedright \normalfont \centering
-    \ifnum \c@secnumdepth >\m@ne
-        \LARGE\bfseries \@chapapp\space \thechapter
-        \par\nobreak
-    \fi
-    \interlinepenalty\@M
-    \LARGE \bfseries #1\par\nobrea
-  }}
-\def\@makeschapterhead#1{
-  {\parindent \z@ \raggedright
-    \normalfont
-    \interlinepenalty\@M
-    \LARGE \bfseries  #1\par\nobreak
-  }}
-\makeatother
+% supress chapter numbers
+\setcounter{secnumdepth}{-1}
 
 % Format for the chapter headings
 \titleformat{\chapter}[display]{\bfseries\Large\itshape}{ \thechapter}{0.5ex}{}[]
@@ -104,5 +86,5 @@
 % inter word stretch
 \fontdimen3\font=0.1em
 
-%stretch length between words. so it doesn't go over the margin.
+% stretch length between words. so it doesn't go over the margin.
 \setlength{\emergencystretch}{3em}
