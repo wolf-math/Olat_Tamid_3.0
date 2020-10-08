@@ -2,12 +2,6 @@
 
 \newcommand{\inlineinstruction}[1]{\begin{scriptsize} \textsf{#1} \end{scriptsize}}
 
-\newcommand{\source}[1]{%
-    \Ifthispageodd{%
-        \marginpar{\raggedleft\tiny \textsf{#1}}}{%
-        \marginpar{\raggedright\tiny \textsf{#1}}}%
-}
-
 \newcommand{\firstword}[1]{\begin{large}\textbf{#1}\end{large}}
 
 \newenvironment{sometimes}[1]
@@ -18,7 +12,15 @@
 
 \newcommand{\sepline}{\vspace{-.5\baselineskip}\rule[.7ex]{1.3in}{1pt}\vspace{-.5\baselineskip}}
 
+\newcommand{\source}[1]{%
+    \Ifthispageodd{%
+        \marginpar{\raggedleft\tiny \textsf{#1}}}{%
+        \marginpar{\raggedright\tiny \textsf{#1}}}%
+}
 
+\newcommand{\perek}{%
+
+}
 
 
 % \newcommand{\source}[3]{

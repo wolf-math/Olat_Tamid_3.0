@@ -26,21 +26,21 @@
 \RequirePackage[bottom]{footmisc}		%keeps footnotes at the bottom of the page. Doesn't always work.
 \RequirePackage{scrextend}
 \RequirePackage[all]{nowidow}
-\RequirePackage{python}
+\RequirePackage{pythontex}
 \allsectionsfont{\centering}
 
-  % Header - must be before bidi
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhf{}
-  \fancyhead[RE]{\footnotesize\thepage}
-  \fancyhead[LO]{\footnotesize\thepage}
-  \fancyhead[C]{\footnotesize\leftmark}
-  \fancypagestyle{plain}{
-       \fancyhf{}
-      \fancyhead[RE]{\footnotesize\thepage}
-      \fancyhead[LO]{\footnotesize\thepage}      
-  }
+% Header - must be before bidi
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE]{\footnotesize\thepage}
+\fancyhead[LO]{\footnotesize\thepage}
+\fancyhead[C]{\footnotesize\leftmark}
+\fancypagestyle{plain}{
+      \fancyhf{}
+    \fancyhead[RE]{\footnotesize\thepage}
+    \fancyhead[LO]{\footnotesize\thepage}      
+}
 
 % chapter and section titles - MUST be before bidi
 \RequirePackage{titlesec}
@@ -62,10 +62,6 @@
 % bidirectional typing
 \RequirePackage{bidi}
 \makeatletter
-\makeatother
-
-\makeatletter
-\@addtoreset{footnote}{chapter}
 \makeatother
 
 % supress chapter numbers

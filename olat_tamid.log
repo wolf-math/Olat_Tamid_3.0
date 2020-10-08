@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.9.22)  5 OCT 2020 13:40
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.9.22)  5 OCT 2020 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1520,50 +1520,229 @@ Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/python/python.sty
-Package: python 2007/06/07 v0.21 Python in LaTeX
-\@out=\write4
-\@module=\write5
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip80
-\f@nch@O@elh=\skip81
-\f@nch@O@erh=\skip82
-\f@nch@O@olh=\skip83
-\f@nch@O@orh=\skip84
-\f@nch@O@elf=\skip85
-\f@nch@O@erf=\skip86
-\f@nch@O@olf=\skip87
-\f@nch@O@orf=\skip88
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box123
-\beforetitleunit=\skip89
-\aftertitleunit=\skip90
-\ttl@plus=\dimen293
-\ttl@minus=\dimen294
-\ttl@toksa=\toks39
-\titlewidth=\dimen295
-\titlewidthlast=\dimen296
-\titlewidthfirst=\dimen297
-)
-(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
-Package: polyglossia 2020/01/29 v1.47 Modern multilingual typesetting with XeLa
-TeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/pythontex/pythontex.sty
+Package: pythontex 2019/09/22 v0.17 execute and typeset Python code and other l
+anguages
+
+(/usr/share/texlive/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count318
 )
-(/usr/share/texlive/texmf-dist/tex/latex/makecmds/makecmds.sty
-Package: makecmds 2009/09/03 v1.0a extra command making commands
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count319
+\FV@InFile=\read3
+\FV@TabBox=\box123
+\c@FancyVerbLine=\count320
+\FV@StepNumber=\count321
+\FV@OutFile=\write4
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
 )
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count322
+\output=\toks39
+\linenoprevgraf=\count323
+\linenumbersep=\dimen293
+\linenumberwidth=\dimen294
+\c@linenumber=\count324
+\c@pagewiselinenumber=\count325
+\c@LN@truepage=\count326
+\c@internallinenumber=\count327
+\c@internallinenumbers=\count328
+\quotelinenumbersep=\dimen295
+\bframerule=\dimen296
+\bframesep=\dimen297
+\bframebox=\box124
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count329
+\c@FV@TrueTabCounter=\count330
+\FV@TabBox@Group=\box125
+\FV@TmpLength=\skip80
+\c@FV@HighlightLinesStart=\count331
+\c@FV@HighlightLinesStop=\count332
+\FV@LoopCount=\count333
+\FV@NCharsBox=\box126
+\FV@BreakIndent=\dimen298
+\FV@BreakIndentNChars=\count334
+\FV@BreakSymbolSepLeft=\dimen299
+\FV@BreakSymbolSepLeftNChars=\count335
+\FV@BreakSymbolSepRight=\dimen300
+\FV@BreakSymbolSepRightNChars=\count336
+\FV@BreakSymbolIndentLeft=\dimen301
+\FV@BreakSymbolIndentLeftNChars=\count337
+\FV@BreakSymbolIndentRight=\dimen302
+\FV@BreakSymbolIndentRightNChars=\count338
+\c@FancyVerbLineBreakLast=\count339
+\FV@LineBox=\box127
+\FV@LineIndentBox=\box128
+\FV@LineWidth=\dimen303
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count340
+Invalid UTF-8 byte or sequence at line 35 replaced by U+FFFD.
+\decimalpart=\count341
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 86 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 102 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 114 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 120 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 221 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 221 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 301 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 302 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 333 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 434 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 457 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 457 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 466 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 466 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 595 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 597 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 599 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 602 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 605 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 605 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 610 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 615 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 632 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 632 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 633 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 635 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 637 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 647 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 653 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 678 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 700 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 705 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 719 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 732 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 732 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 742 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 742 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 762 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 773 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 773 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 810 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 824 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 824 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 831 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 838 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 838 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 846 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 846 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 861 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 862 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 864 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 908 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 934 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 934 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 936 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 936 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 940 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 940 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 962 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 962 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 964 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 965 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1006 replaced by U+FFFD.
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks40
+\pgfopts@list@add@b@toks=\toks41
+)
+(/usr/share/texlive/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: Document class `book' detected.
+Package newfloat Info: `wrapfig' package detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/currfile/currfile.sty
+Package: currfile 2015/04/23 v0.7c Provides the file path elements of the curre
+nt input file
+
 (/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2020/02/03 v0.7 Hooks for input files
 
@@ -1572,6 +1751,54 @@ Package: filehook-scrlfile 2020/02/02 v0.2 filehook patch for scrlfile package
 Package filehook Info: Package 'scrlfile' detected and compensated for on input
  line 107.
 ))
+\c@currfiledepth=\count342
+)
+\pytx@codefile=\write5
+\openout5 = `olat_tamid.pytxcode'.
+
+\c@pytx@FancyVerbLineTemp=\count343
+\c@pytx@py@default@default=\count344
+\c@pytx@pycon@default@default=\count345
+\c@pytx@sympy@default@default=\count346
+\c@pytx@sympycon@default@default=\count347
+\c@pytx@pylab@default@default=\count348
+\c@pytx@pylabcon@default@default=\count349
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip81
+\f@nch@O@elh=\skip82
+\f@nch@O@erh=\skip83
+\f@nch@O@olh=\skip84
+\f@nch@O@orh=\skip85
+\f@nch@O@elf=\skip86
+\f@nch@O@erf=\skip87
+\f@nch@O@olf=\skip88
+\f@nch@O@orf=\skip89
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box129
+\beforetitleunit=\skip90
+\aftertitleunit=\skip91
+\ttl@plus=\dimen304
+\ttl@minus=\dimen305
+\ttl@toksa=\toks42
+\titlewidth=\dimen306
+\titlewidthlast=\dimen307
+\titlewidthfirst=\dimen308
+)
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2020/01/29 v1.47 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/makecmds/makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+)
 \xpg@normalclass=\XeTeXcharclass1
 
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
@@ -1630,22 +1857,22 @@ X
 ****************************************************
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2020-01-29 v1.10 Programming tools for bidi package
-\@bidi@envbody=\toks40
-\@bidi@emptytoks=\toks41
+\@bidi@envbody=\toks43
+\@bidi@emptytoks=\toks44
 
 
 Package biditools Warning: Patching `\enddocument' failed on input line 705.
 
-\bidi@tempcountb=\count319
-\bidi@temptoksa=\toks42
-\bidi@temptoksb=\toks43
-\bidi@dummies=\count320
-\bidi@are@these@correct=\toks44
-\bidi@toks@lista=\toks45
-\bidi@toks@listb=\toks46
-\bidi@stack@length=\count321
-\bidi@empty@stack=\toks47
-\bidi@looprepeat@depth=\count322
+\bidi@tempcountb=\count350
+\bidi@temptoksa=\toks45
+\bidi@temptoksb=\toks46
+\bidi@dummies=\count351
+\bidi@are@these@correct=\toks47
+\bidi@toks@lista=\toks48
+\bidi@toks@listb=\toks49
+\bidi@stack@length=\count352
+\bidi@empty@stack=\toks50
+\bidi@looprepeat@depth=\count353
 ) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
 
@@ -1678,7 +1905,7 @@ Package zref Info: New property: page on input line 765.
 (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\c@abspage=\count323
+\c@abspage=\count354
 Package zref Info: New property: abspage on input line 66.
 )
 \@bidi@copyins@=\insert251
@@ -1686,14 +1913,14 @@ Package zref Info: New property: abspage on input line 66.
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks48
-\bidi@column@check@number=\count324
+\bidi@n@everypar=\toks51
+\bidi@column@check@number=\count355
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count325
-\footdir@toks=\toks49
+\c@footdir@label=\count356
+\footdir@toks=\toks52
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -1734,6 +1961,10 @@ ackage for XeTeX engine
 File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
 kage for XeTeX engine
 )
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/lineno-xetex-bidi.def
+File: lineno-xetex-bidi.def 2018/01/28 v0.2 bidi adaptations for lineno package
+ for XeTeX engine
+)
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.d
 ef
 File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
@@ -1750,6 +1981,10 @@ or XeTeX engine
 File: multicol-xetex-bidi.def 2020-01-29 v1.2 bidi adaptations for multicol pac
 kage for XeTeX engine
 )
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/newfloat-xetex-bidi.def
+File: newfloat-xetex-bidi.def 2013/05/22 v0.1 bidi adaptations for newfloat pac
+kage for XeTeX engine
+)
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/ragged2e-xetex-bidi.def
 File: ragged2e-xetex-bidi.def 2018/10/17 v0.3 bidi adaptations for ragged2e pac
 kage for XeTeX engine
@@ -1758,7 +1993,7 @@ kage for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count326
+\bidi@digits=\count357
 \bidi@digits@charclass=\XeTeXcharclass2
 \bidi@sepmark@charclass=\XeTeXcharclass3
 )
@@ -1767,17 +2002,17 @@ Package: hebrewcal 2019/12/03 v2.7 Hebrew calendar for polyglossia (adapted fro
 m hebcal.sty in Babel)
 
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/cal-util.def
-\c@tmpA=\count327
-\c@tmpB=\count328
-\c@tmpC=\count329
-\c@tmpD=\count330
-\c@tmpE=\count331
-\c@tmpF=\count332
+\c@tmpA=\count358
+\c@tmpB=\count359
+\c@tmpC=\count360
+\c@tmpD=\count361
+\c@tmpE=\count362
+\c@tmpF=\count363
 )
-\hebrewday=\count333
-\hebrewmonth=\count334
-\hebrewyear=\count335
-\@common=\count336
+\hebrewday=\count364
+\hebrewmonth=\count365
+\hebrewyear=\count366
+\@common=\count367
 )
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -1916,27 +2151,27 @@ ex-text;"
 Requested font "[./fonts/Shlomo]/OT:language=dflt;mapping=tex-text;" at 10.95pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans" at 10.94997pt
- -> 0^^�8^^P_U
+ -> p\G^^^^�U
 Requested font "FreeSans/OT" at 10.95003pt
- -> ^^-8^^P_U
+ -> ^^P^^F^^^^�U
 Requested font "FreeSans/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^-8^^P_U
+ -> ^^P^^F^^^^�U
 Requested font "FreeSans/BI/OT:script=latn;language=dflt;" at 10.95001pt
  -> 
 Requested font "FreeSans/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> P*8^^P_U
+ -> ^^�^^F^^^^�U
 Requested font "FreeSans/I/OT:script=latn;language=dflt;" at 10.95001pt
- ->  ^^^8^^P_U
+ -> `^^F^^^^�U
 Requested font "FreeSans/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ ^^,^^P_U
+ -> 
 Requested font "FreeSans/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> `-8^^P_U
+ -> ^^�^^F^^^^�U
 Requested font "FreeSans/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> p^^�N^^P_U
+ -> ^^�8]^^^^�U
 Requested font "FreeSans/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> p^^�N^^P_U
+ -> ^^�8]^^^^�U
 Requested font "FreeSans/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^0^^P^^P_U
+ -> 0z_^^^^�U
 Requested font "FreeSans/BI/OT:script=latn;language=dflt;" at 10.95003pt
  -> 
 Requested font "FreeSans/BI/OT:script=latn;language=dflt;" at 10.95003pt
@@ -2146,8 +2381,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 1
 5.
-\AtBeginShipoutBox=\box124
 
+No file pythontex-files-olat_tamid/olat_tamid.pytxmcr.
+Run PythonTeX to create it.
+Package newfloat Info: New float `listing' with options `fileext=lopytx' on inp
+ut line 15.
+\c@listing=\count368
+\newfloat@ftype=\count369
+Package newfloat Info: float type `listing'=8 on input line 15.
+\AtBeginShipoutBox=\box130
 (./components/kaddish.tex) (./components/brachot_hashachar.tex
 Requested font "[./fonts/ShlomoBold]/OT:script=hebr;language=dflt;mapping=tex-t
 ext;" at 10.95pt
@@ -2163,13 +2405,13 @@ Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans/OT:script=latn;language=dflt;mapping=tex-text;" at 8.0
 pt
- -> @L`^^P_U
+ -> 
 Requested font "FreeSans/OT" at 7.99997pt
- -> ^^�J`^^P_U
+ -> @%o^^^^�U
 Requested font "FreeSans/OT:script=hebr;" at 8.00003pt
- -> ^^0I`^^P_U
+ -> ^^�#o^^^^�U
 Requested font "FreeSans/OT:script=hebr;language=dflt;" at 8.00002pt
- -> ^^�&`^^P_U
+ -> ^^�^^Co^^^^�U
 Requested font "FreeSans/BI/OT:script=hebr;language=dflt;" at 8.00002pt
  -> 
 Requested font "FreeSans/B/OT:script=hebr;language=dflt;" at 8.00002pt
@@ -2184,11 +2426,11 @@ Requested font "FreeSans/OT:script=latn;language=dflt;mapping=tex-text;" at 10.
 Requested font "FreeSans/B/OT:script=hebr;language=dflt;" at 8.00003pt
  -> 
 Requested font "FreeSans/B/OT:script=hebr;language=dflt;" at 8.00003pt
- -> ^^�^^�^^�^^P_U
+ -> ^^ C^^�^^^^�U
 Requested font "FreeSans/I/OT:script=hebr;language=dflt;" at 8.00003pt
- -> ^^�^^�^^�^^P_U
+ -> ^^ C^^�^^^^�U
 Requested font "FreeSans/I/OT:script=hebr;language=dflt;" at 8.00003pt
- ->  x^^�^^P_U
+ -> @8^^�^^^^�U
 Requested font "FreeSans/BI/OT:script=hebr;language=dflt;" at 8.00003pt
  -> 
 Requested font "FreeSans/BI/OT:script=hebr;language=dflt;" at 8.00003pt
@@ -2236,11 +2478,11 @@ Requested font "FreeSans/OT:script=hebr;language=dflt;mapping=tex-text;" at 10.
 Requested font "FreeSans/B/OT:script=hebr;language=IWR;" at 8.00003pt
  -> 
 Requested font "FreeSans/B/OT:script=hebr;language=IWR;" at 8.00003pt
- -> ^^0s^^�^^P_U
+ -> ^^ 4^^�^^^^�U
 Requested font "FreeSans/I/OT:script=hebr;language=IWR;" at 8.00003pt
- -> ^^0s^^�^^P_U
+ -> ^^ 4^^�^^^^�U
 Requested font "FreeSans/I/OT:script=hebr;language=IWR;" at 8.00003pt
- -> ^^h^^�^^P_U
+ -> ^^�)^^�^^^^�U
 Requested font "FreeSans/BI/OT:script=hebr;language=IWR;" at 8.00003pt
  -> 
 Requested font "FreeSans/BI/OT:script=hebr;language=IWR;" at 8.00003pt
@@ -2302,7 +2544,7 @@ Requested font "cmr8" at 8.0pt
 Requested font "cmr6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 
-Overfull \hbox (11.75002pt too wide) in paragraph at lines 13--27
+Overfull \hbox (11.75002pt too wide) in paragraph at lines 13--26
 [][][] []
  []
 
@@ -2318,12 +2560,12 @@ Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 30--43
+Underfull \hbox (badness 10000) in paragraph at lines 29--42
 [][]
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 44--46
+Underfull \hbox (badness 1014) in paragraph at lines 43--45
 []\TU/Shlomo(1)/m/n/10.95 מֵעַפְעַפָּי׃ וִיהִי רָצוֹן מִלְּֿפָנֶֽיךָ יְיָ אֱלֹהַי 
 וֵאלֹהֵי אֲבוֹתַי שֶׁתַּרְגִּילֵֽנִי[]
  []
@@ -2343,17 +2585,17 @@ Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans/OT:script=latn;language=dflt;mapping=tex-text;" at 6.0
 pt
- -> ^^�^^�^^�^^P_U
+ ->  [^^�^^^^�U
 Requested font "FreeSans/OT" at 5.99997pt
- -> @^^�^^�^^P_U
+ ->  ^^C^^^^^^�U
 Requested font "FreeSans/OT:script=hebr;" at 6.00003pt
- -> p^^�^^�^^P_U
+ -> 0^^U^^^^^^�U
 Requested font "FreeSans/OT:script=hebr;language=dflt;mapping=tex-text;" at 6.0
 pt
- -> 
+ -> PQ^^�^^^^�U
 Requested font "FreeSans/OT:script=hebr;language=IWR;mapping=tex-text;" at 6.0p
 t
- -> 
+ -> ^^0P^^�^^^^�U
 Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 12.0pt
  -> ./fonts/Shlomo.ttf
@@ -2361,7 +2603,7 @@ Requested font "[./fonts/ShlomoBold]/OT:script=hebr;language=dflt;mapping=tex-t
 ext;" at 12.0pt
  -> ./fonts/ShlomoBold.ttf
 
-Underfull \hbox (badness 1259) in paragraph at lines 47--52
+Underfull \hbox (badness 1259) in paragraph at lines 46--51
 []\TU/Shlomo(1)/m/n/10.95 בְּכוֹרֶֽךָ שֶׁמֵּאַהֲבָתְֿךָ שֶׁאָהַֽבְתָּ אֹתוֹ וּמִשִּׂמְחָת
 ְֿךָ שֶׁשָּׂמַֽחְתָּ בּוֹ קָרָֽאתָ[]
  []
@@ -2370,13 +2612,13 @@ Requested font "[./fonts/Shlomo]/OT:script=hebr;language=dflt;mapping=tex-text;
 " at 14.4pt
  -> ./fonts/Shlomo.ttf
 
-Underfull \hbox (badness 1831) in paragraph at lines 66--68
+Underfull \hbox (badness 1831) in paragraph at lines 65--67
 []\TU/Shlomo(1)/m/n/10.95 הָאֱלֹהִים֙ לְבַדְּךָ֔ לְכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶץ אַ
 תָּ֣ה עָשִׂ֔יתָ אֶת־הַשָּׁמַ֖יִם[]
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 66--68
+Underfull \hbox (badness 2393) in paragraph at lines 65--67
 []\TU/Shlomo(1)/m/n/10.95 וְאֶת־הָאָֽרֶץ׃ []אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ֔ם
 ׃ וּמִי בְּכָל־מַעֲשֵׂה יָדֶֽיךָ[]
  []
@@ -2401,7 +2643,7 @@ Requested font "[./fonts/Shlomo]/OT:script=hebr;" at 10.00003pt
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Underfull \hbox (badness 1286) in paragraph at lines 96--105
+Underfull \hbox (badness 1286) in paragraph at lines 95--104
 []\TU/Shlomo(1)/b/n/12 וַיְדַבֵּ֥ר יְיָ֖[] \TU/Shlomo(1)/m/n/10.95 אֶל־מֹשֶׁ֥ה 
 לֵּאמֹֽר׃ צַ֚ו אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם[]
  []
@@ -2411,6 +2653,7 @@ Underfull \vbox (badness 1502) has occurred while \output is active []
 
  [6]
 [7]) (./components/tallit_tefillin.tex [8])
+\c@pytx@py@default@default@line=\count370
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2461,18 +2704,14 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [9] (./olat_tamid.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ [9] (./olat_tamid.aux) ) 
 Here is how much of TeX's memory you used:
- 34568 strings out of 479819
- 735088 string characters out of 5895846
- 960650 words of memory out of 5000000
- 51019 multiletter control sequences out of 15000+600000
+ 36942 strings out of 479819
+ 783364 string characters out of 5895846
+ 1031206 words of memory out of 5000000
+ 53349 multiletter control sequences out of 15000+600000
  537035 words of font info for 143 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 70i,13n,116p,2635b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,13n,116p,2635b,569s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on olat_tamid.pdf (9 pages).
