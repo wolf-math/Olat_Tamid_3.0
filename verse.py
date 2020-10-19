@@ -2,7 +2,7 @@ import json
 
 # If you want to change to a different type of verse
 # i.e. without teamim, or without nekudot change the file path below.
-# add extra arg to define how many pesukim to print.
+# add number as 3rd param to define how many pesukim to print.
 def pasuk(book, chapter, verse, number = 1):
     chapter -= 1
     verse -= 1
