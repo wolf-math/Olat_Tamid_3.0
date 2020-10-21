@@ -12,7 +12,7 @@ def verse(book, chapter, verse, number = 1):
         # Double curly bracket escapes from the f-string
         #source = f"\source{{ {data["heTitle"]}, {chapter+1} }}"
         heTitle = data["heTitle"]
-        source = "\source{{ {heTitle} }}, {chapter+1}"
+        source = f"\source{{ {heTitle}, {chapter+1} }}"
         print(source, ''.join(data["text"][chapter][verse: verse+number]))
         
 # $ python -c 'import foo; print foo.hello()'
